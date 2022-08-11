@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an  assistant  professor  at  Emory  University.  My  research  interests  are comparative  politics,  public  policy, housing policy,  elections, and misinformation. 
+I am an  assistant  professor  at  Emory  University.  My  research  interests  are comparative  politics,  public  policy, housing policy,  elections, and misinformation. 
 
 I examine the causes on  nonstate  welfare  provision,  the  consequences  of  public  policies, specifically housing policy,  on  political behavior, elections, and misinformation. My teaching focuses on Latin American politics, public policy, and research methods. I use a multi-method approach with an emphasis in causal inference.
 
