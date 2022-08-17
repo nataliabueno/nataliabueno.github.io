@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Published
+
 - [Fake News, Fact Checking, and Partisanship: The Resilience of Rumors in the 2018 Brazilian Elections](https://www.journals.uchicago.edu/doi/10.1086/719419)
 with Fred Batista, Felipe Nunes and Nara Pavão, _Journal of Politics_. 
     [Replication files](https://doi.org/10.7910/DVN/CSKA4Q)
@@ -36,5 +38,20 @@ with Fabrício M. Fialho _Latin American Research Review_, 44(2):59-83, 2009. Th
 > Reprinted at: Grugel, Jean. Democratization: Theories, Methods and Historical Perspectives, vol. IV: 235-272. Sage Library of Political Science, 2013 
 
 > Reprinted in Portuguese at: Reis, Elisa P.ONGs, Novos Vínculos entre a Sociedade e o Estado, Editora 7 Letras, 2013 
+
+## Under review and invitations to revise and resubmit
+
+* Batista, F., Bueno, N. S., Nunes, F., and Pavão, N. “Inoculation Reduces Misinformation: Experimental Evidence from a Multidimensional Intervention in
+Brazil” (Revised & Resubmitted)
+
+* Bueno, N. S., Nunes, F., Zucco, Cesar. “What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies” (Revised
+& Resubmitted)
+
+* Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (under
+review)
+
+* Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. “Detecting Misinformation in the Global South: The Spread of False News by Political Leaders” (under review)
+
+
 
 
