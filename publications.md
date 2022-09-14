@@ -47,8 +47,7 @@ Brazil” (Revised & Resubmitted)
 * Bueno, N. S., Nunes, F., Zucco, Cesar. “What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies” (Revised
 & Resubmitted)
 
-* Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (under
-review)
+* Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (invited to Revise & Resubmit)
 
 * Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. “Detecting Misinformation in the Global South: The Spread of False News by Political Leaders” (under review)
 
