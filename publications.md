@@ -8,16 +8,16 @@ author_profile: true
 ## Published
 
 - [Fake News, Fact Checking, and Partisanship: The Resilience of Rumors in the 2018 Brazilian Elections](https://www.journals.uchicago.edu/doi/10.1086/719419)
-with Fred Batista, Felipe Nunes and Nara Pavão, _Journal of Politics_. 
+with Fred Batista, Felipe Nunes and Nara Pavão, _Journal of Politics_, 2022
     [Replication files](https://doi.org/10.7910/DVN/CSKA4Q) [Online appendix] (https://www.journals.uchicago.edu/doi/suppl/10.1086/719419)
 
 * [Making the Bourgeoisie? Values, Voice, and State-Provided Home ownership](https://www.journals.uchicago.edu/doi/10.1086/719275)
-with Cesar Zucco and Felipe Nunes, _Journal of Politics_. 
+with Cesar Zucco and Felipe Nunes, _Journal of Politics_, 2022
  [Replication files](https://doi.org/10.7910/DVN/VWWAHK) [Online appendix] (https://www.journals.uchicago.edu/doi/suppl/10.1086/719275) [PAP] (https://osf.io/qxvh2?mode=&revisionId=&view_only=)
 
 > Recipient of the 2021 Best Paper on Public Policy Award by APSA Public Policy Section 
 
-* [The Timing of Public Policies: Political Budget Cycles and Credit Claiming](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12688?casa_token=bKSvWxRYRM4AAAAA%3AKZ3sgtNEtKa7DDlvDHyCOZ81r3drhCeufXRH3WK2WqsHu9SMSvCp1RGzs0hbW4fdtQjABDLGJ7B8mlkN) _American Journal of Political Science_ 
+* [The Timing of Public Policies: Political Budget Cycles and Credit Claiming](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12688?casa_token=bKSvWxRYRM4AAAAA%3AKZ3sgtNEtKa7DDlvDHyCOZ81r3drhCeufXRH3WK2WqsHu9SMSvCp1RGzs0hbW4fdtQjABDLGJ7B8mlkN) _American Journal of Political Science_, 2021
 [Replication files](https://doi.org/10.7910/DVN/PTHMQU) [Online appendix] (https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fajps.12688&file=ajps12688-sup-0001-Appendix.pdf)
 
 * [Bypassing the Enemy: Distributive Politics, Credit Claiming, and Non-State Organizations in Brazil](https://journals.sagepub.com/doi/abs/10.1177/0010414017710255)
