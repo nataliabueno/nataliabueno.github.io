@@ -44,8 +44,7 @@ with Fabrício M. Fialho _Latin American Research Review_, 44(2):59-83, 2009. Th
 * Batista, F., Bueno, N. S., Nunes, F., and Pavão, N. “Inoculation Reduces Misinformation: Experimental Evidence from a Multidimensional Intervention in
 Brazil” (Revised & Resubmitted) [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4185949)
 
-* Bueno, N. S., Nunes, F., Zucco, Cesar. “What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies” (Revised
-& Resubmitted) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
+* Bueno, N. S., Nunes, F., Zucco, Cesar. “What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies” (conditionally accepted at _British Journal of Political Science_) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
 
 * Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (invited to Revise & Resubmit) [working paper](https://osf.io/preprints/socarxiv/q6mwn/) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
 
