@@ -42,9 +42,11 @@ with Fabrício M. Fialho _Latin American Research Review_, 44(2):59-83, 2009. Th
 ## Under review and invitations to revise and resubmit
 
 * Batista, F., Bueno, N. S., Nunes, F., and Pavão, N. “Inoculation Reduces Misinformation: Experimental Evidence from a Multidimensional Intervention in
-Brazil” (Revised & Resubmitted) [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4185949)
+Brazil” (conditionally accepted at _Journal of Experimental Political Science_) [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4185949)
 
 * Bueno, N. S., Nunes, F., Zucco, Cesar. “What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies” (conditionally accepted at _British Journal of Political Science_) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
+
+> Recipient of the 2022 Best Paper by REPAL (Red para el Estudio de la Economía Política de América Latina)
 
 * Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (invited to Revise & Resubmit) [working paper](https://osf.io/preprints/socarxiv/q6mwn/) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
 
