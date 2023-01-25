@@ -7,6 +7,10 @@ author_profile: true
 
 ## Published
 
+* Bueno, N. S., Nunes, F., Zucco, Cesar. “What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies” (accepted/in production at _British Journal of Political Science_) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
+
+> Recipient of the 2022 Best Paper by REPAL (Red para el Estudio de la Economía Política de América Latina)
+
 - [Fake News, Fact Checking, and Partisanship: The Resilience of Rumors in the 2018 Brazilian Elections](https://www.journals.uchicago.edu/doi/10.1086/719419)
 with Fred Batista, Felipe Nunes and Nara Pavão, _Journal of Politics_, 2022
     [Replication files](https://doi.org/10.7910/DVN/CSKA4Q) [Online appendix](https://www.journals.uchicago.edu/doi/suppl/10.1086/719419)
@@ -44,11 +48,7 @@ with Fabrício M. Fialho _Latin American Research Review_, 44(2):59-83, 2009. Th
 * Batista, F., Bueno, N. S., Nunes, F., and Pavão, N. “Inoculation Reduces Misinformation: Experimental Evidence from a Multidimensional Intervention in
 Brazil” (conditionally accepted at _Journal of Experimental Political Science_) [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4185949)
 
-* Bueno, N. S., Nunes, F., Zucco, Cesar. “What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies” (conditionally accepted at _British Journal of Political Science_) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
-
-> Recipient of the 2022 Best Paper by REPAL (Red para el Estudio de la Economía Política de América Latina)
-
-* Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (invited to Revise & Resubmit) [working paper](https://osf.io/preprints/socarxiv/q6mwn/) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
+* Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (Revised & Resubmitted) [working paper](https://osf.io/preprints/socarxiv/q6mwn/) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
 
 * Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (under review)
 
