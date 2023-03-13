@@ -7,7 +7,7 @@ author_profile: true
 
 ## Published
 
-* Bueno, N. S., Nunes, F., Zucco, Cesar. “What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies” (accepted/in production at _British Journal of Political Science_) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
+* What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies, with Cesar Zucco and Felipe Nunes, [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=) (accepted/in production at _British Journal of Political Science_)
 
 > Recipient of the 2022 Best Paper by REPAL (Red para el Estudio de la Economía Política de América Latina)
 
@@ -54,9 +54,9 @@ Brazil” (conditionally accepted at _Journal of Experimental Political Science_
 
 ## Other publications
 
-* Book Review of [Democracy at Work: Pathways to Well-Being in Brazil](https://www.cambridge.org/core/journals/perspectives-on-politics/article/democracy-at-work-pathways-to-wellbeing-in-brazil-by-brian-wampler-natasha-borges-sugiyama-and-michael-touchton-cambridge-cambridge-university-press-2020-370p-9999-cloth/AD8A3AD7F2A7E55BD23DD50E19A87F51) (Brian Wampler, Natasha Borges Sugiyama, and Michael Touchton. Cambridge, MA: Cambridge University Press, 2020) (2020, _Perspectives on Politics_, 18(4), 1269-1270)
+* Book Review of [Democracy at Work: Pathways to Well-Being in Brazil](https://www.cambridge.org/core/journals/perspectives-on-politics/article/democracy-at-work-pathways-to-wellbeing-in-brazil-by-brian-wampler-natasha-borges-sugiyama-and-michael-touchton-cambridge-cambridge-university-press-2020-370p-9999-cloth/AD8A3AD7F2A7E55BD23DD50E19A87F51) (Brian Wampler, Natasha Borges Sugiyama, and Michael Touchton. Cambridge, MA: Cambridge University Press, 2020) 2020, _Perspectives on Politics_, 18(4), 1269-1270
 
-* [Graphical Presentation of Regression Discontinuity Results](http://www.guadalupetunon.com/uploads/1/8/9/0/18901061/tpm_v22_n2.pdf) (2015) with Guadalupe Tuñón, _The Political Methodologist_ [Replication Data](https://github.com/nataliabueno/Graphical-Presentation-of-Regression-Discontinuity-Results)
+* [Graphical Presentation of Regression Discontinuity Results](http://www.guadalupetunon.com/uploads/1/8/9/0/18901061/tpm_v22_n2.pdf) (2015) with Guadalupe Tuñón, _The Political Methodologist_ 22(2):4--8, Spring 2015 [Replication Data](https://github.com/nataliabueno/Graphical-Presentation-of-Regression-Discontinuity-Results)
 
 
 
