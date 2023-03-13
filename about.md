@@ -18,7 +18,7 @@ My research has received awards or honorable mentions by the American Political 
 
 **Book project**
 
-**Nonstate welfare, state money: distributive politics of nonstate welfare provision**
+**Public money, private organizations: the distributive politics of NGOs**
 ======
 
 Why do governments delegate welfare provision to nonstate organizations? In several emerging welfare  states, as the  state  grows,  so  do nongovernmental organizations. Rather  than  being  a symptom of weak governance or an apparent solution to government inefficiency, funding private charities  to  provide  public  services  is  a  tactic that governments  deliberately  deploy  to  engender electoral support. Furthermore,delegation is also a consequence of connections between NGO and government staff that create channels of information that favor connected nonstate organizations. I examine these claims using original, fine-grained data from Brazil and a multi-method approach.
