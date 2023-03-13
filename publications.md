@@ -54,6 +54,8 @@ Brazil” (conditionally accepted at _Journal of Experimental Political Science_
 
 ## Other publications
 
+* Book Review of [Democracy at Work: Pathways to Well-Being in Brazil](https://www.cambridge.org/core/journals/perspectives-on-politics/article/democracy-at-work-pathways-to-wellbeing-in-brazil-by-brian-wampler-natasha-borges-sugiyama-and-michael-touchton-cambridge-cambridge-university-press-2020-370p-9999-cloth/AD8A3AD7F2A7E55BD23DD50E19A87F51) (Brian Wampler, Natasha Borges Sugiyama, and Michael Touchton. Cambridge, MA: Cambridge University Press, 2020) (2020, _Perspectives on Politics_, 18(4), 1269-1270)
+
 * [Graphical Presentation of Regression Discontinuity Results](http://www.guadalupetunon.com/uploads/1/8/9/0/18901061/tpm_v22_n2.pdf) (2015) with Guadalupe Tuñón, _The Political Methodologist_ [Replication Data](https://github.com/nataliabueno/Graphical-Presentation-of-Regression-Discontinuity-Results)
 
 
