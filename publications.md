@@ -50,7 +50,10 @@ Brazil” (conditionally accepted at _Journal of Experimental Political Science_
 
 * Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (Revised & Resubmitted) [working paper](https://osf.io/preprints/socarxiv/q6mwn/) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
 
-* Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (under review)
+* Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (under review) [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=)
+
+* Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. “Detecting Misinformation in the Global South: The Spread of False News by Political Leaders” [working paper](https://osf.io/preprints/socarxiv/hu4qr/)
+
 
 ## Other publications
 
