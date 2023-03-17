@@ -52,7 +52,7 @@ Brazil” (conditionally accepted at _Journal of Experimental Political Science_
 
 * Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (under review) [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=)
 
-* Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. “Detecting Misinformation in the Global South: The Spread of False News by Political Leaders” [working paper](https://osf.io/preprints/socarxiv/hu4qr/)
+* Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. “Detecting Misinformation in the Global South: The Spread of False News by Political Leaders” (submitted) [working paper](https://osf.io/preprints/socarxiv/hu4qr/)
 
 
 ## Other publications
