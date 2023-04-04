@@ -7,7 +7,10 @@ author_profile: true
 
 ## Published
 
-* What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies, with Cesar Zucco and Felipe Nunes, [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=) (accepted/in production at _British Journal of Political Science_)
+* Batista, F., Bueno, N. S., Nunes, F., and Pavão, N. “Inoculation Reduces Misinformation: Experimental Evidence from a Multidimensional Intervention in
+Brazil” (accepted at _Journal of Experimental Political Science_) [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4185949)
+
+* What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies, with Cesar Zucco and Felipe Nunes, [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=) [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3891823) (accepted/in production at _British Journal of Political Science_)
 
 > Recipient of the 2022 Best Paper by REPAL (Red para el Estudio de la Economía Política de América Latina)
 
@@ -44,9 +47,6 @@ with Thad Dunning _World Politics_, 6(2): 327-365, 2017 [Replication files](http
 with Fabrício M. Fialho _Latin American Research Review_, 44(2):59-83, 2009. The survey data used in this paper belongs to CPEQS-UFMG, but it is available upon request.
 
 ## Under review and invitations to revise and resubmit
-
-* Batista, F., Bueno, N. S., Nunes, F., and Pavão, N. “Inoculation Reduces Misinformation: Experimental Evidence from a Multidimensional Intervention in
-Brazil” (conditionally accepted at _Journal of Experimental Political Science_) [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4185949)
 
 * Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (Revised & Resubmitted) [working paper](https://osf.io/preprints/socarxiv/q6mwn/) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
 
