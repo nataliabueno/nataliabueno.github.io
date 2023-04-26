@@ -8,9 +8,9 @@ author_profile: true
 ## Published
 
 * Batista, F., Bueno, N. S., Nunes, F., and Pavão, N. “Inoculation Reduces Misinformation: Experimental Evidence from a Multidimensional Intervention in
-Brazil” (in production at _Journal of Experimental Political Science_) [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4185949) [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZHWIWG)
+Brazil” (in production at _Journal of Experimental Political Science_) [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4185949) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZHWIWG)
 
-* [What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-you-see-and-what-you-get-direct-and-indirect-political-dividends-of-public-policies/50B1E448E2EC60D06A7CFFE95E9BF2DF), with Felipe Nunes and Cesar Zucco,_British Journal of Political Science_, 2023 [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T1LA6E) [Online Appendix](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-you-see-and-what-you-get-direct-and-indirect-political-dividends-of-public-policies/50B1E448E2EC60D06A7CFFE95E9BF2DF#supplementary-materials) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
+* [What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-you-see-and-what-you-get-direct-and-indirect-political-dividends-of-public-policies/50B1E448E2EC60D06A7CFFE95E9BF2DF), with Felipe Nunes and Cesar Zucco, _British Journal of Political Science_, 2023 [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T1LA6E) [Online appendix](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-you-see-and-what-you-get-direct-and-indirect-political-dividends-of-public-policies/50B1E448E2EC60D06A7CFFE95E9BF2DF#supplementary-materials) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
 
 > Recipient of the 2022 Best Paper by REPAL (Red para el Estudio de la Economía Política de América Latina)
 
@@ -37,7 +37,7 @@ with Thad Dunning _World Politics_, 6(2): 327-365, 2017 [Replication files](http
  
 * [Raça e Comportamento Político: participação, ativismo e recursos em Belo Horizonte](https://www.scielo.br/j/ln/a/YT46KmtST4zV96wyRdq5FmR/abstract/?lang=pt) _Lua Nova_, 85: 187-226, 2012. The survey data used in this paper belongs to CPEQS-UFMG, but it is available upon request
 
-* [Waves of Change within Civil Society in Latin America: Mexico City and São Paulo](https://journals.sagepub.com/doi/10.1177/0032329211415504) with Adrian Gurza Lavalle _Politics & Society_, 39(3): 415-450, 2011. [Replication Data](https://doi.org/10.7910/DVN/ZS566M)
+* [Waves of Change within Civil Society in Latin America: Mexico City and São Paulo](https://journals.sagepub.com/doi/10.1177/0032329211415504) with Adrian Gurza Lavalle _Politics & Society_, 39(3): 415-450, 2011. [Replication data](https://doi.org/10.7910/DVN/ZS566M)
 
 > Reprinted at: Grugel, Jean. Democratization: Theories, Methods and Historical Perspectives, vol. IV: 235-272. Sage Library of Political Science, 2013 
 
