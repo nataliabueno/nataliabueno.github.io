@@ -1,8 +1,16 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
-collection: portfolio
+layout: archive
+title: "Book project"
+permalink: /portfolio-2/
+author_profile: true
 ---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <head>
 	<title>Book Project: Public money, private organizations: the distributive politics of NGOs</title>
