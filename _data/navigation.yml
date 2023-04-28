@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Book"
+    url: /portfolio-2/
+
   - title: "Publications"
     url: /publications/  
 
@@ -12,5 +16,7 @@ main:
     
   - title: "Advising"
     url: /portfolio/
+    
+    
 
 
