@@ -7,8 +7,7 @@ author_profile: true
 
 ## Published
 
-* Batista, F., Bueno, N. S., Nunes, F., and Pavão, N. “Inoculation Reduces Misinformation: Experimental Evidence from a Multidimensional Intervention in
-Brazil” (in production at _Journal of Experimental Political Science_) [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4185949) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZHWIWG)
+* Batista, F., Bueno, N. S., Nunes, F., and Pavão, N. [Inoculation Reduces Misinformation: Experimental Evidence from a Multidimensional Intervention in Brazil](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/inoculation-reduces-misinformation-experimental-evidence-from-multidimensional-interventions-in-brazil/204E3EDCDAC90DF941F140FBEE847BBD) (_Journal of Experimental Political Science_, 2023) [Online Appendix](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/inoculation-reduces-misinformation-experimental-evidence-from-multidimensional-interventions-in-brazil/204E3EDCDAC90DF941F140FBEE847BBD#supplementary-materials) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZHWIWG)
 
 * [What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-you-see-and-what-you-get-direct-and-indirect-political-dividends-of-public-policies/50B1E448E2EC60D06A7CFFE95E9BF2DF), with Felipe Nunes and Cesar Zucco, _British Journal of Political Science_, 2023 [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T1LA6E) [Online appendix](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-you-see-and-what-you-get-direct-and-indirect-political-dividends-of-public-policies/50B1E448E2EC60D06A7CFFE95E9BF2DF#supplementary-materials) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
 
@@ -48,12 +47,11 @@ with Fabrício M. Fialho _Latin American Research Review_, 44(2):59-83, 2009. Th
 
 ## Under review and invitations to revise and resubmit
 
-* Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (Revised & Resubmitted) [working paper](https://osf.io/preprints/socarxiv/q6mwn/) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
+* Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (Revised & Resubmitted, second round) [working paper](https://osf.io/preprints/socarxiv/q6mwn/) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
+
+* Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. “Detecting Misinformation in the Global South: The Spread of False News by Political Leaders” (Invited to Revise & Resubmit) [working paper](https://osf.io/preprints/socarxiv/hu4qr/)
 
 * Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (under review) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411082) [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=)
-
-* Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. “Detecting Misinformation in the Global South: The Spread of False News by Political Leaders” (submitted) [working paper](https://osf.io/preprints/socarxiv/hu4qr/)
-
 
 ## Other publications
 
