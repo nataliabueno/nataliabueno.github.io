@@ -47,7 +47,7 @@ with Fabrício M. Fialho _Latin American Research Review_, 44(2):59-83, 2009. Th
 
 ## Under review and invitations to revise and resubmit
 
-* Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: The Impact of Deepfakes and Fake News on Politician Support and Trust in Media” (Revised & Resubmitted, second round) [working paper](https://osf.io/preprints/socarxiv/q6mwn/) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
+* Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: Can Politicians Claim Misinformation to Evade Accountability?” (Revised & Resubmitted, second round) [working paper](https://osf.io/preprints/socarxiv/q6mwn/) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
 
 * Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. “Detecting Misinformation in the Global South: The Spread of False News by Political Leaders” (Invited to Revise & Resubmit) [working paper](https://osf.io/preprints/socarxiv/hu4qr/)
 
