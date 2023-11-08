@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an  assistant  professor  at  Emory  University. For Spring 2023, I am a visiting fellow at the Kellogg Institute for International Studies.  My  research  interests  are comparative  politics,  public  policy, housing policy,  elections, and misinformation. 
+I am an  assistant  professor  at  Emory  University. For Spring 2023, I was a visiting fellow at the Kellogg Institute for International Studies.  My  research  interests  are comparative  politics,  public  policy, housing policy,  elections, and misinformation. 
 
 I examine the causes on  nonstate  welfare  provision,  the  consequences  of  public  policies, specifically housing policy,  on  political behavior, elections, and misinformation. My teaching focuses on Latin American politics, public policy, and research methods. I use a multi-method approach with an emphasis in causal inference.
 
