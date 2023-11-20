@@ -49,7 +49,7 @@ with Fabrício M. Fialho _Latin American Research Review_, 44(2):59-83, 2009. Th
 
 * Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: Can Politicians Claim Misinformation to Evade Accountability?” (conditionally accepted at _American Political Science Review_) [working paper](https://osf.io/2c8xa) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
 
-* Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. “Detecting Misinformation in the Global South: The Spread of False News by Political Leaders” (Invited to Revise & Resubmit) [working paper](https://osf.io/preprints/socarxiv/hu4qr/)
+* Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. “Detecting Misinformation in the Global South: The Spread of False News by Political Leaders” (revised \& resubmitted) [working paper](https://osf.io/preprints/socarxiv/hu4qr/)
 
 * Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (under review) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411082) [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=)
 
