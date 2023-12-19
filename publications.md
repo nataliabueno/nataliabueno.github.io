@@ -49,7 +49,7 @@ with Thad Dunning _World Politics_, 6(2): 327-365, 2017 [Replication files](http
 * [Race, Resources, and Political Participation in a Brazilian City](https://www.jstor.org/stable/40783607) 
 with Fabrício M. Fialho _Latin American Research Review_, 44(2):59-83, 2009. The survey data used in this paper belongs to CPEQS-UFMG, but it is available upon request.
 
-## Under review and invitations to revise and resubmit
+## Under review
 
 * Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (under review) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411082) [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=)
 
