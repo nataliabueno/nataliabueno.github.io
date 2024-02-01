@@ -9,7 +9,8 @@ author_profile: true
 
 * Schiff, K. J., Schiff, D., and Bueno, N. S.. “The Liar’s Dividend: Can Politicians Claim Misinformation to Evade Accountability?” (accepted at _American Political Science Review_) [working paper](https://osf.io/2c8xa) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
 
-* Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. “Detecting Misinformation in the Global South: The Spread of False News by Political Leaders” (accepted at _Journal of Quantitative Description: Digital Media_) [working paper](https://osf.io/preprints/socarxiv/hu4qr/)
+* Batista, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. [Detecting Misinformation in the Global South: The Spread of False News by Political Leaders](https://journalqd.org/article/view/4135/3872) _Journal of Quantitative Description: Digital Media_, 2024 [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EQL5E4)
+
 
 * [Inoculation Reduces Misinformation: Experimental Evidence from a Multidimensional Intervention in Brazil](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/inoculation-reduces-misinformation-experimental-evidence-from-multidimensional-interventions-in-brazil/204E3EDCDAC90DF941F140FBEE847BBD), with Batista, F., Bueno, N. S., Nunes, F., and Pavão, N., _Journal of Experimental Political Science_, 2023 [Online Appendix](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/inoculation-reduces-misinformation-experimental-evidence-from-multidimensional-interventions-in-brazil/204E3EDCDAC90DF941F140FBEE847BBD#supplementary-materials) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZHWIWG)
 
