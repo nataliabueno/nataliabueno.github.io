@@ -18,7 +18,7 @@ author_profile: true
 
 1. [What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-you-see-and-what-you-get-direct-and-indirect-political-dividends-of-public-policies/50B1E448E2EC60D06A7CFFE95E9BF2DF), with Felipe Nunes and Cesar Zucco, _British Journal of Political Science_, 2023 [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T1LA6E) [Online appendix](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-you-see-and-what-you-get-direct-and-indirect-political-dividends-of-public-policies/50B1E448E2EC60D06A7CFFE95E9BF2DF#supplementary-materials) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
 
-> Recipient of the 2022 Best Paper by REPAL (Red para el Estudio de la Economía Política de América Latina)
+Recipient of the 2022 Best Paper by REPAL (Red para el Estudio de la Economía Política de América Latina)
 
 1. [Fake News, Fact Checking, and Partisanship: The Resilience of Rumors in the 2018 Brazilian Elections](https://www.journals.uchicago.edu/doi/10.1086/719419) with Frederico Batista Pereira, Felipe Nunes and Nara Pavão, _Journal of Politics_, 2022 [Replication files](https://doi.org/10.7910/DVN/CSKA4Q) [Online appendix](https://www.journals.uchicago.edu/doi/suppl/10.1086/719419)
 
