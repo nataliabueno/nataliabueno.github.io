@@ -18,14 +18,14 @@ author_profile: true
 
 1. [What You See and What You Get: The Direct and Indirect Political Dividends of Public Policies](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-you-see-and-what-you-get-direct-and-indirect-political-dividends-of-public-policies/50B1E448E2EC60D06A7CFFE95E9BF2DF), with Felipe Nunes and Cesar Zucco, _British Journal of Political Science_, 2023 [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T1LA6E) [Online appendix](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-you-see-and-what-you-get-direct-and-indirect-political-dividends-of-public-policies/50B1E448E2EC60D06A7CFFE95E9BF2DF#supplementary-materials) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
 
-  <span style="color:blue">Recipient of the 2022 Best Paper by REPAL (Red para el Estudio de la Economía Política de América Latina)</span>
+<span style="color:blue">Recipient of the 2022 Best Paper by REPAL (Red para el Estudio de la Economía Política de América Latina)</span>
 
 1. [Fake News, Fact Checking, and Partisanship: The Resilience of Rumors in the 2018 Brazilian Elections](https://www.journals.uchicago.edu/doi/10.1086/719419) with Frederico Batista Pereira, Felipe Nunes and Nara Pavão, _Journal of Politics_, 2022 [Replication files](https://doi.org/10.7910/DVN/CSKA4Q) [Online appendix](https://www.journals.uchicago.edu/doi/suppl/10.1086/719419)
 
 1. [Making the Bourgeoisie? Values, Voice, and State-Provided Home ownership](https://www.journals.uchicago.edu/doi/10.1086/719275)
 with Cesar Zucco and Felipe Nunes, _Journal of Politics_, 2022 [Replication files](https://doi.org/10.7910/DVN/VWWAHK) [Online appendix](https://www.journals.uchicago.edu/doi/suppl/10.1086/719275) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
 
-> Recipient of the 2021 Best Paper on Public Policy Award by APSA Public Policy Section 
+Recipient of the 2021 Best Paper on Public Policy Award by APSA Public Policy Section 
 
 1. [The Timing of Public Policies: Political Budget Cycles and Credit Claiming](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12688?casa_token=bKSvWxRYRM4AAAAA%3AKZ3sgtNEtKa7DDlvDHyCOZ81r3drhCeufXRH3WK2WqsHu9SMSvCp1RGzs0hbW4fdtQjABDLGJ7B8mlkN) _American Journal of Political Science_, 2021
 [Replication files](https://doi.org/10.7910/DVN/PTHMQU) [Online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fajps.12688&file=ajps12688-sup-0001-Appendix.pdf)
@@ -33,7 +33,7 @@ with Cesar Zucco and Felipe Nunes, _Journal of Politics_, 2022 [Replication file
 1. [Bypassing the Enemy: Distributive Politics, Credit Claiming, and Non-State Organizations in Brazil](https://journals.sagepub.com/doi/abs/10.1177/0010414017710255)
 _Comparative Political Studies_, 51(3): 304-340, 2018 [Replication files](https://journals.sagepub.com/doi/suppl/10.1177/0010414017710255) [Online appendix](https://journals.sagepub.com/doi/suppl/10.1177/0010414017710255/suppl_file/cps_supplemental_material-Final.pdf) [PAP](https://osf.io/cqah4?mode=&revisionId=&view_only=)
 
-> Honorable mention for the 2019 Sérgio Buarque de Holanda Award for best paper in the social sciences, Latin American Studies Association's Brazil Section 
+Honorable mention for the 2019 Sérgio Buarque de Holanda Award for best paper in the social sciences, Latin American Studies Association's Brazil Section 
 
 1. [Race, Resources, and Representation: Evidence from Brazilian Politicians](https://www.cambridge.org/core/journals/world-politics/article/abs/race-resources-and-representation/751CDDD26FA4892DD96A8F9C313BE2E3)
 with Thad Dunning, _World Politics_, 6(2): 327-365, 2017 [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RAHUFD) [Online appendix](https://www.cambridge.org/core/journals/world-politics/article/abs/race-resources-and-representation/751CDDD26FA4892DD96A8F9C313BE2E3#supplementary-materials) [Corrigendum](https://www.cambridge.org/core/journals/world-politics/article/abs/race-resources-and-representation-evidence-from-brazilian-politicianscorrigendum/EB8A94CB2EA387DCDC0E51C73582A36B)
@@ -42,9 +42,9 @@ with Thad Dunning, _World Politics_, 6(2): 327-365, 2017 [Replication files](htt
 
 1. [Waves of Change within Civil Society in Latin America: Mexico City and São Paulo](https://journals.sagepub.com/doi/10.1177/0032329211415504) with Adrian Gurza Lavalle, _Politics & Society_, 39(3): 415-450, 2011. [Replication data](https://doi.org/10.7910/DVN/ZS566M)
 
-> Reprinted at: Grugel, Jean. Democratization: Theories, Methods and Historical Perspectives, vol. IV: 235-272. Sage Library of Political Science, 2013 
+Reprinted at: Grugel, Jean. Democratization: Theories, Methods and Historical Perspectives, vol. IV: 235-272. Sage Library of Political Science, 2013 
 
-> Reprinted in Portuguese at: Reis, Elisa P.ONGs, Novos Vínculos entre a Sociedade e o Estado, Editora 7 Letras, 2013 
+Reprinted in Portuguese at: Reis, Elisa P.ONGs, Novos Vínculos entre a Sociedade e o Estado, Editora 7 Letras, 2013 
 
 1. [Race, Resources, and Political Participation in a Brazilian City](https://www.jstor.org/stable/40783607) 
 with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. The survey data used in this paper belongs to CPEQS-UFMG, but it is available upon request.
