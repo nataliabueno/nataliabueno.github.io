@@ -9,6 +9,8 @@ author_profile: true
 
 * “The Liar’s Dividend: Can Politicians Claim Misinformation to Evade Accountability?”, with Kaylyn Jackson Schiff and Daniel Schiff, forthcoming at _American Political Science Review_ [working paper](https://osf.io/2c8xa) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
 
+* [Promoting Reproducibility and Replicability in Political Science](https://journals.sagepub.com/doi/10.1177/20531680241233439), with Abel Brodeur et al. _Research & Politics_, 2024:11(1)
+
 * [Detecting Misinformation in the Global South: The Spread of False News by Political Leaders](https://journalqd.org/article/view/4135/3872), with Valerie Wirtschafter, Frederico Batista Pereira, Nara Pavão, João Pedro Oliveira dos Santos, and Felipe Nunes, _Journal of Quantitative Description: Digital Media_, 2024 [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EQL5E4)
 
 
