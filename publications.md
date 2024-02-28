@@ -7,7 +7,7 @@ author_profile: true
 
 ## Published
 
-- [The Liar’s Dividend: Can Politicians Claim Misinformation to Evade Accountability?](https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073), with Kaylyn Jackson Schiff and Daniel Schiff, forthcoming at _American Political Science Review [PAP](https://osf.io/qpxr8/?view_only=) [Online Appendix](https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073#supplementary-materials) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MNO06W)
+- [The Liar’s Dividend: Can Politicians Claim Misinformation to Evade Accountability?](https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073), with Kaylyn Jackson Schiff and Daniel Schiff, _American Political Science Review_, 2024 [PAP](https://osf.io/qpxr8/?view_only=) [Online Appendix](https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073#supplementary-materials) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MNO06W)
 
 - [Promoting Reproducibility and Replicability in Political Science](https://journals.sagepub.com/doi/10.1177/20531680241233439), with Abel Brodeur et al. _Research & Politics_, 2024:11(1)
 
