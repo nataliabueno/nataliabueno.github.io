@@ -7,7 +7,7 @@ author_profile: true
 
 ## Published
 
-- “The Liar’s Dividend: Can Politicians Claim Misinformation to Evade Accountability?”, with Kaylyn Jackson Schiff and Daniel Schiff, forthcoming at _American Political Science Review_ [working paper](https://osf.io/2c8xa) [PAP](https://osf.io/vdce6?mode=&revisionId=&view_only=)
+- [The Liar’s Dividend: Can Politicians Claim Misinformation to Evade Accountability?](https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073), with Kaylyn Jackson Schiff and Daniel Schiff, forthcoming at _American Political Science Review [PAP](https://osf.io/qpxr8/?view_only=) [Online Appendix](https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073#supplementary-materials) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MNO06W)
 
 - [Promoting Reproducibility and Replicability in Political Science](https://journals.sagepub.com/doi/10.1177/20531680241233439), with Abel Brodeur et al. _Research & Politics_, 2024:11(1)
 
@@ -20,9 +20,9 @@ author_profile: true
 
 > Recipient of the 2022 Best Paper by REPAL (Red para el Estudio de la Economía Política de América Latina)
 
-1. [Fake News, Fact Checking, and Partisanship: The Resilience of Rumors in the 2018 Brazilian Elections](https://www.journals.uchicago.edu/doi/10.1086/719419) with Frederico Batista Pereira, Felipe Nunes and Nara Pavão, _Journal of Politics_, 2022 [Replication files](https://doi.org/10.7910/DVN/CSKA4Q) [Online appendix](https://www.journals.uchicago.edu/doi/suppl/10.1086/719419)
+- [Fake News, Fact Checking, and Partisanship: The Resilience of Rumors in the 2018 Brazilian Elections](https://www.journals.uchicago.edu/doi/10.1086/719419) with Frederico Batista Pereira, Felipe Nunes and Nara Pavão, _Journal of Politics_, 2022 [Replication files](https://doi.org/10.7910/DVN/CSKA4Q) [Online appendix](https://www.journals.uchicago.edu/doi/suppl/10.1086/719419)
 
-1. [Making the Bourgeoisie? Values, Voice, and State-Provided Home ownership](https://www.journals.uchicago.edu/doi/10.1086/719275)
+- [Making the Bourgeoisie? Values, Voice, and State-Provided Home ownership](https://www.journals.uchicago.edu/doi/10.1086/719275)
 with Cesar Zucco and Felipe Nunes, _Journal of Politics_, 2022 [Replication files](https://doi.org/10.7910/DVN/VWWAHK) [Online appendix](https://www.journals.uchicago.edu/doi/suppl/10.1086/719275) [PAP](https://osf.io/qxvh2?mode=&revisionId=&view_only=)
 
 > Recipient of the 2021 Best Paper on Public Policy Award by APSA Public Policy Section 
@@ -30,7 +30,7 @@ with Cesar Zucco and Felipe Nunes, _Journal of Politics_, 2022 [Replication file
 - [The Timing of Public Policies: Political Budget Cycles and Credit Claiming](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12688?casa_token=bKSvWxRYRM4AAAAA%3AKZ3sgtNEtKa7DDlvDHyCOZ81r3drhCeufXRH3WK2WqsHu9SMSvCp1RGzs0hbW4fdtQjABDLGJ7B8mlkN) _American Journal of Political Science_, 2021
 [Replication files](https://doi.org/10.7910/DVN/PTHMQU) [Online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fajps.12688&file=ajps12688-sup-0001-Appendix.pdf)
 
-> [Bypassing the Enemy: Distributive Politics, Credit Claiming, and Non-State Organizations in Brazil](https://journals.sagepub.com/doi/abs/10.1177/0010414017710255)
+- [Bypassing the Enemy: Distributive Politics, Credit Claiming, and Non-State Organizations in Brazil](https://journals.sagepub.com/doi/abs/10.1177/0010414017710255)
 _Comparative Political Studies_, 51(3): 304-340, 2018 [Replication files](https://journals.sagepub.com/doi/suppl/10.1177/0010414017710255) [Online appendix](https://journals.sagepub.com/doi/suppl/10.1177/0010414017710255/suppl_file/cps_supplemental_material-Final.pdf) [PAP](https://osf.io/cqah4?mode=&revisionId=&view_only=)
 
 > Honorable mention for the 2019 Sérgio Buarque de Holanda Award for best paper in the social sciences, Latin American Studies Association's Brazil Section 
