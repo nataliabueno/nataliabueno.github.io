@@ -52,6 +52,7 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
 ## Under review
 
 - Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (invitation to R & R) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411082) [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=)
+- Bueno, N. S., Masterson, D. Rojas, D. "When Does the Public Care About Immigration? Studying the Political Salience of Venezuelan Immigration in Colombia" (submitted) [Working Paper](https://osf.io/preprints/socarxiv/ftsuz) [PAP](https://osf.io/uk7qr)
 
 ## Other publications
 
