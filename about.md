@@ -14,7 +14,7 @@ I examine the causes on  nonstate  welfare  provision,  the  consequences  of  p
 
 My research has been published or is forthcoming at *American Journal of Political Science*, *American Political Science Review*, *British Journal of Political Science*, *Comparative Political Studies*, *Journal of Quantitative Description: Digital Media*, *Journal of Politics*, *Latin American Research Review*, *World Politics*, among other outlets. 
 
-My research has received awards or honorable mentions by the American Political Science Association, APSA's Public  Policy  Section, Latin American American Studies Association's Brazil Section, Red para el Estudio de la Economía Política de América Latina (REPAL), and Yale's Department of Political Science. I have also received funding from Facebook, MIT Gov/Lab, EGAP LatAm, SciBR, CNPq, Yale's ISPS and MacMillan Center, IPEA, among others.
+My research has received awards or honorable mentions by the American Political Science Association, APSA's Public  Policy  Section (twice), Latin American American Studies Association's Brazil Section, Red para el Estudio de la Economía Política de América Latina (REPAL), and Yale's Department of Political Science. I have also received funding from Meta, Stanford Internet Lab, MIT Gov/Lab, EGAP LatAm, SciBR, CNPq, Yale's ISPS and MacMillan Center, IPEA, among others.
 
 
 
