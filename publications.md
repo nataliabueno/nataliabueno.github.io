@@ -7,6 +7,10 @@ author_profile: true
 
 ## Published
 
+- Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (Conditionally accepted at _Comparative Political Studies_) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411082) [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=)
+
+> Recipient of the 2024 APSA Public Policy Section's Best Comparative Policy Paper Award
+
 - [The Liar’s Dividend: Can Politicians Claim Misinformation to Evade Accountability?](https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073), with Kaylyn Jackson Schiff and Daniel Schiff, _American Political Science Review_, 2024 [PAP](https://osf.io/qpxr8/?view_only=) [Online Appendix](https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073#supplementary-materials) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MNO06W)
 
 - [Promoting Reproducibility and Replicability in Political Science](https://journals.sagepub.com/doi/10.1177/20531680241233439), with Abel Brodeur et al. _Research & Politics_, 2024:11(1)
@@ -51,11 +55,7 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
 
 ## Under review
 
-- Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (revised and resubmitted) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411082) [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=)
-
-> Recipient of the 2024 APSA Public Policy Section's Best Comparative Policy Paper Award
-
-- Bueno, N. S., Masterson, D. Rojas, D. "When Does the Public Care About Immigration? Studying the Political Salience of Venezuelan Immigration in Colombia" (under review) [Working Paper](https://osf.io/preprints/socarxiv/ftsuz) [PAP](https://osf.io/uk7qr)
+- Bueno, N. S., Masterson, D. Rojas, D. "When Does the Public Care About Immigration? Studying the Political Salience of Venezuelan Immigration in Colombia" (submitted) [Working Paper](https://osf.io/preprints/socarxiv/ftsuz) [PAP](https://osf.io/uk7qr)
 
 ## Other publications
 
