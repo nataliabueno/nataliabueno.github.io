@@ -7,7 +7,7 @@ author_profile: true
 
 ## Published
 
-- Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (accepted at _Comparative Political Studies_) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411082) [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=)
+- Bueno, N. S., Nunes, F., Zucco, Cesar. "Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs" (accepted at _Comparative Political Studies_) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411082) [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C8C6CP)
 
 > Recipient of the 2024 APSA Public Policy Section's Best Comparative Policy Paper Award
 
