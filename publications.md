@@ -7,7 +7,7 @@ author_profile: true
 
 ## Published
 
-- [Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs](https://journals.sagepub.com/eprint/UQT2APTZPZAYXJPM3CPW/full), with Felipe Nunes and Cesar Zucco, _Comparative Political Studies_, 2024 [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=) [Online Appendix)[https://journals.sagepub.com/eprint/UQT2APTZPZAYXJPM3CPW/full#supplementary-materials] [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C8C6CP)
+- [Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs](https://journals.sagepub.com/eprint/UQT2APTZPZAYXJPM3CPW/full), with Felipe Nunes and Cesar Zucco, _Comparative Political Studies_, 2024 [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=) [Online Appendix](https://journals.sagepub.com/eprint/UQT2APTZPZAYXJPM3CPW/full#supplementary-materials) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C8C6CP)
 
 > Recipient of the 2024 APSA Public Policy Section's Best Comparative Policy Paper Award
 
