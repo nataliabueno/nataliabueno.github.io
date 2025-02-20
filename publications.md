@@ -57,6 +57,9 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
 
 - Bueno, N. S., Masterson, D. Rojas, D. "When Does the Public Care About Immigration? Studying the Political Salience of Venezuelan Immigration in Colombia" (under review) [Working Paper](https://osf.io/preprints/socarxiv/ftsuz) [PAP](https://osf.io/uk7qr)
 
+- Bueno, L. S., Avelino, G., Biderman, C., Bueno, N. S., and Da Mata, D.. "Housing, Social Cohesion, and Well-Being: Experimental Evidence from Informal Settlements''  (under review) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975903) [PAP](https://osf.io/b74tw)
+
+  
 ## Other publications
 
 - Book Review of [Democracy at Work: Pathways to Well-Being in Brazil](https://www.cambridge.org/core/journals/perspectives-on-politics/article/democracy-at-work-pathways-to-wellbeing-in-brazil-by-brian-wampler-natasha-borges-sugiyama-and-michael-touchton-cambridge-cambridge-university-press-2020-370p-9999-cloth/AD8A3AD7F2A7E55BD23DD50E19A87F51) (Brian Wampler, Natasha Borges Sugiyama, and Michael Touchton. Cambridge, MA: Cambridge University Press, 2020) 2020, _Perspectives on Politics_, 18(4), 1269-1270
