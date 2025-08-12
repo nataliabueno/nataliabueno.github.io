@@ -52,7 +52,7 @@ with Thad Dunning, _World Politics_, 6(2): 327-365, 2017 [Replication files](htt
 
 > Reprinted in Portuguese at: Reis, Elisa P.ONGs, Novos Vínculos entre a Sociedade e o Estado, Editora 7 Letras, 2013 
 
-- [Race, Resources, and Political Participation in a Brazilian City](https://nataliabueno.github.io/files/Bueno-and-Dunning_World-Politics_published-online-first.pdf) 
+- [Race, Resources, and Political Participation in a Brazilian City](https://nataliabueno.github.io/files/RACE,_RESOURCES,_AND_POLITICAL.pdf) 
 with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. The survey data used in this paper belongs to CPEQS-UFMG, but it is available upon request.
 
 ## Under review
