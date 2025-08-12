@@ -46,7 +46,7 @@ with Thad Dunning, _World Politics_, 6(2): 327-365, 2017 [Replication files](htt
  
 - [Raça e Comportamento Político: participação, ativismo e recursos em Belo Horizonte](https://www.scielo.br/j/ln/a/YT46KmtST4zV96wyRdq5FmR/abstract/?lang=pt) _Lua Nova_, 85: 187-226, 2012. The survey data used in this paper belongs to CPEQS-UFMG, but it is available upon request
 
-- [Waves of Change within Civil Society in Latin America: Mexico City and São Paulo]() with Adrian Gurza Lavalle, _Politics & Society_, 39(3): 415-450, 2011. [Replication data](https://doi.org/10.7910/DVN/ZS566M)
+- [Waves of Change within Civil Society in Latin America: Mexico City and São Paulo](https://nataliabueno.github.io/files/wavesofchange.pdf) with Adrian Gurza Lavalle, _Politics & Society_, 39(3): 415-450, 2011. [Replication data](https://doi.org/10.7910/DVN/ZS566M)
 
 > Reprinted at: Grugel, Jean. Democratization: Theories, Methods and Historical Perspectives, vol. IV: 235-272. Sage Library of Political Science, 2013 
 
@@ -64,7 +64,7 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
   
 ## Other publications
 
-- Book Review of [Democracy at Work: Pathways to Well-Being in Brazil](https://www.cambridge.org/core/journals/perspectives-on-politics/article/democracy-at-work-pathways-to-wellbeing-in-brazil-by-brian-wampler-natasha-borges-sugiyama-and-michael-touchton-cambridge-cambridge-university-press-2020-370p-9999-cloth/AD8A3AD7F2A7E55BD23DD50E19A87F51) (Brian Wampler, Natasha Borges Sugiyama, and Michael Touchton. Cambridge, MA: Cambridge University Press, 2020) 2020, _Perspectives on Politics_, 18(4), 1269-1270
+- Book Review of [Democracy at Work: Pathways to Well-Being in Brazil](https://nataliabueno.github.io/files/democracy_at_work_pathways_to_wellbeing_in_brazil_by_brian_wampler_natasha_borges_sugiyama_and_michael_touchton_cambridge_cambridge_university_press_2020_370p_9999_cloth.pdf) (Brian Wampler, Natasha Borges Sugiyama, and Michael Touchton. Cambridge, MA: Cambridge University Press, 2020) 2020, _Perspectives on Politics_, 18(4), 1269-1270
 
 - [Graphical Presentation of Regression Discontinuity Results](http://www.guadalupetunon.com/uploads/1/8/9/0/18901061/tpm_v22_n2.pdf) (2015) with Guadalupe Tuñón, _The Political Methodologist_ 22(2):4--8, Spring 2015 [Replication Materials](https://github.com/nataliabueno/Graphical-Presentation-of-Regression-Discontinuity-Results)
 
