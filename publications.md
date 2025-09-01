@@ -57,12 +57,16 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
 
 ## Under review
 
+- Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. "(De)Mobilizing Effects of Misinformation" (under review) [PAP](https://osf.io/z3u79/?view_only=)
+
 - Bueno, N. S., Masterson, D. Rojas, D. "When Does the Public Care About Immigration? Studying the Political Salience of Venezuelan Immigration in Colombia" (under review) [Working Paper](https://osf.io/preprints/socarxiv/ftsuz) [PAP](https://osf.io/uk7qr)
 
 - Bueno, L. S., Avelino, G., Biderman, C., Bueno, N. S., and Da Mata, D.. "Housing, Social Cohesion, and Well-Being: Experimental Evidence from Informal Settlements''  (under review) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975903) [PAP](https://osf.io/b74tw)
 
   
 ## Other publications
+
+- Focus article: ["How to fight election misinformation"](https://www.science.org/doi/10.1126/sciadv.aeb0116) _Science Advances_ 11(35), 2025
 
 - Book Review of [Democracy at Work: Pathways to Well-Being in Brazil](https://nataliabueno.github.io/files/democracy_at_work_pathways_to_wellbeing_in_brazil_by_brian_wampler_natasha_borges_sugiyama_and_michael_touchton_cambridge_cambridge_university_press_2020_370p_9999_cloth.pdf) (Brian Wampler, Natasha Borges Sugiyama, and Michael Touchton. Cambridge, MA: Cambridge University Press, 2020) 2020, _Perspectives on Politics_, 18(4), 1269-1270
 
