@@ -7,6 +7,8 @@ author_profile: true
 
 ## Published
 
+- ["How to fight election misinformation"](https://www.science.org/doi/10.1126/sciadv.aeb0116) _Science Advances_ 11(35), 2025 (Focus article)
+
 - [Benefits by Luck: A Study of Lotteries as a Selection Method for Government Programs](https://nataliabueno.github.io/files/bueno-et-al-2024-benefits-by-luck-a-study-of-lotteries-as-a-selection-method-for-government-programs-1.pdf), with Felipe Nunes and Cesar Zucco, _Comparative Political Studies_, 2024 [PAP](https://osf.io/z8d4k?mode=&revisionId=&view_only=) [Online Appendix](https://journals.sagepub.com/eprint/UQT2APTZPZAYXJPM3CPW/full#supplementary-materials) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C8C6CP)
 
 > Recipient of the 2024 APSA Public Policy Section's Best Comparative Policy Paper Award
@@ -65,8 +67,6 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
 
   
 ## Other publications
-
-- Focus article: ["How to fight election misinformation"](https://www.science.org/doi/10.1126/sciadv.aeb0116) _Science Advances_ 11(35), 2025
 
 - Book Review of [Democracy at Work: Pathways to Well-Being in Brazil](https://nataliabueno.github.io/files/democracy_at_work_pathways_to_wellbeing_in_brazil_by_brian_wampler_natasha_borges_sugiyama_and_michael_touchton_cambridge_cambridge_university_press_2020_370p_9999_cloth.pdf) (Brian Wampler, Natasha Borges Sugiyama, and Michael Touchton. Cambridge, MA: Cambridge University Press, 2020) 2020, _Perspectives on Politics_, 18(4), 1269-1270
 
