@@ -59,11 +59,11 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
 
 ## Under review
 
+- Bueno, L. S., Avelino, G., Biderman, C., Bueno, N. S., and Da Mata, D.. "Housing, Social Cohesion, and Well-Being: Experimental Evidence from Informal Settlements''  (invited to R&R) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975903) [PAP](https://osf.io/b74tw)
+
 - Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. "(De)Mobilizing Effects of Misinformation" (under review) [PAP](https://osf.io/z3u79/?view_only=)
 
 - Bueno, N. S., Masterson, D. Rojas, D. "When Does the Public Care About Immigration? Studying the Political Salience of Venezuelan Immigration in Colombia" (under review) [Working Paper](https://osf.io/preprints/socarxiv/ftsuz) [PAP](https://osf.io/uk7qr)
-
-- Bueno, L. S., Avelino, G., Biderman, C., Bueno, N. S., and Da Mata, D.. "Housing, Social Cohesion, and Well-Being: Experimental Evidence from Informal Settlements''  (under review) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975903) [PAP](https://osf.io/b74tw)
 
   
 ## Other publications
