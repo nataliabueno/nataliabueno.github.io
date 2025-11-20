@@ -63,7 +63,7 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
 
 - Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. "(De)Mobilizing Effects of Misinformation" (under review) [PAP](https://osf.io/z3u79/?view_only=)
 
-- Bueno, N. S., Masterson, D. Rojas, D. "When Does the Public Care About Immigration? Studying the Political Salience of Venezuelan Immigration in Colombia" (under review) [Working Paper](https://osf.io/preprints/socarxiv/ftsuz) [PAP](https://osf.io/uk7qr)
+- Meireles, F., Bueno, N. S. "Coordination Advantage: How Partisan Favoritism Persists Under Accountability Institutions" (submitted) [Working Paper](https://osf.io/preprints/socarxiv/k2na4_v1)
 
   
 ## Other publications
