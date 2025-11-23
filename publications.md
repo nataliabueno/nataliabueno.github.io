@@ -61,7 +61,7 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
 
 - Bueno, L. S., Avelino, G., Biderman, C., Bueno, N. S., and Da Mata, D.. "Housing, Social Cohesion, and Well-Being: Experimental Evidence from Informal Settlements''  (invited to R&R) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975903) [PAP](https://osf.io/b74tw)
 
-- Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. "(De)Mobilizing Effects of Misinformation" (under review) [PAP](https://osf.io/z3u79/?view_only=)
+- Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. "(De)Mobilizing Effects of Misinformation" (under review) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5793363) [PAP](https://osf.io/z3u79/?view_only=)
 
 - Meireles, F., Bueno, N. S. "Coordination Advantage: How Partisan Favoritism Persists Under Accountability Institutions" (submitted) [Working Paper](https://osf.io/preprints/socarxiv/k2na4_v1)
 
