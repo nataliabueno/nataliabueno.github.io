@@ -65,7 +65,7 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
 
 - Meireles, F., Bueno, N. S. "Coordination Advantage: How Partisan Favoritism Persists Under Accountability Institutions" (under review) [Working Paper](https://osf.io/preprints/socarxiv/k2na4_v1)
 
-- Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., and Wirtschafter, V. "Sincere or Opportunistic? Understanding the Nature of Election Fraud Beliefs in Brazil" (submitted)
+- Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., and Wirtschafter, V. "Sincere or Opportunistic? Understanding the Nature of Election Fraud Beliefs in Brazil" (under review) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6041994)
   
 ## Other publications
 
