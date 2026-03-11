@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Natalia Bueno"
 title_separator          : "-"
 name                     : &name "Natalia Bueno"
-description              : &description "Assistant professor in the Department of Political Science at Emory University. Pior to joining Emory, I received a Ph.D. from Yale University."
+description              : &description "Associate professor in the Department of Political Science at Emory University. Prior to joining Emory, I received a Ph.D. from Yale University."
 url                      : https://nataliabueno.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Natalia Bueno"
   avatar           : "profile.png"
-  bio              : "Assistant professor in the Department of Political Science at Emory University. Pior to joining Emory, I received a Ph.D. from Yale University."
+  bio              : "Associate professor in the Department of Political Science at Emory University. Prior to joining Emory, I received a Ph.D. from Yale University."
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=vtgE_sUAAAAJ&hl=en"
   email            :
