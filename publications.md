@@ -63,7 +63,7 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
 
 - Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., and Wirtschafter, V. "Sincere or Opportunistic? Understanding the Nature of Election Fraud Beliefs in Brazil" (invited to R&R) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6041994)
 
-- Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. "(De)Mobilizing Effects of Misinformation" (under review) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5793363) [PAP](https://osf.io/z3u79/?view_only=)
+- Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. "(De)Mobilizing Effects of Misinformation" (invited to R&R) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5793363) [PAP](https://osf.io/z3u79/?view_only=)
 
 - Meireles, F., Bueno, N. S. "Coordination Advantage: How Partisan Favoritism Persists Under Accountability Institutions" (under review) [Working Paper](https://osf.io/preprints/socarxiv/k2na4_v1)
   
