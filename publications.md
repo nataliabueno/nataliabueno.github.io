@@ -59,13 +59,15 @@ with Fabrício M. Fialho, _Latin American Research Review_, 44(2):59-83, 2009. T
 
 ## Under review
 
-- Bueno, L. S., Avelino, G., Biderman, C., Bueno, N. S., and Da Mata, D.. "Housing, Social Cohesion, and Well-Being: Experimental Evidence from Informal Settlements''  (invited to R&R) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975903) [PAP](https://osf.io/b74tw)
+- Bueno, L. S., Avelino, G., Biderman, C., Bueno, N. S., and Da Mata, D.. "Housing, Social Cohesion, and Well-Being: Experimental Evidence from Informal Settlements''  (revised and resubmitted) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975903) [PAP](https://osf.io/b74tw)
 
-- Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., and Wirtschafter, V. "Sincere or Opportunistic? Understanding the Nature of Election Fraud Beliefs in Brazil" (invited to R&R) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6041994)
+- Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., and Wirtschafter, V. "Sincere or Opportunistic? Understanding the Nature of Election Fraud Beliefs in Brazil" (revised and resubmitted) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6041994)
 
 - Batista Pereira, F., Bueno, N. S., Nunes, F., Pavão, N., Wirtschafter, V., and Santos, J. "(De)Mobilizing Effects of Misinformation" (invited to R&R) [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5793363) [PAP](https://osf.io/z3u79/?view_only=)
 
 - Meireles, F., Bueno, N. S. "Coordination Advantage: How Partisan Favoritism Persists Under Accountability Institutions" (under review) [Working Paper](https://osf.io/preprints/socarxiv/k2na4_v1)
+
+> Recipient of the 2026 Deil S. Wright Best Paper Award for the best paper in the field of federalism and intergovernmental relations
   
 ## Other publications
 
