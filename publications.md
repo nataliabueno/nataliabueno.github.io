@@ -42,9 +42,9 @@ _Comparative Political Studies_, 51(3): 304-340, 2018 [Replication files](https:
 
 - [Detecting Misinformation in the Global South: The Spread of False News by Political Leaders](https://journalqd.org/article/view/4135/3872), with Valerie Wirtschafter, Frederico Batista Pereira, Nara Pavão, João Pedro Oliveira dos Santos, and Felipe Nunes, _Journal of Quantitative Description: Digital Media_, 2024 [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EQL5E4)
 
-> Recipient of the award for Best Research Article published in the _Journal of Experimental Political Science_ in 2024 by APSA Experimental Research Section 
-
 - [Inoculation Reduces Misinformation: Experimental Evidence from a Multidimensional Intervention in Brazil](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/inoculation-reduces-misinformation-experimental-evidence-from-multidimensional-interventions-in-brazil/204E3EDCDAC90DF941F140FBEE847BBD), with Frederico Batista Pereira, Felipe Nunes, and Nara Pavão, _Journal of Experimental Political Science_, 11(3):239-250, 2024 [Online Appendix](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/inoculation-reduces-misinformation-experimental-evidence-from-multidimensional-interventions-in-brazil/204E3EDCDAC90DF941F140FBEE847BBD#supplementary-materials) [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZHWIWG)
+
+> Recipient of the award for Best Research Article published in the _Journal of Experimental Political Science_ in 2024 by APSA Experimental Research Section 
 
 - [Fake News, Fact Checking, and Partisanship: The Resilience of Rumors in the 2018 Brazilian Elections](https://nataliabueno.github.io/files/719419.pdf) with Frederico Batista Pereira, Felipe Nunes and Nara Pavão, _Journal of Politics_, 2022 [Replication files](https://doi.org/10.7910/DVN/CSKA4Q) [Online appendix](https://www.journals.uchicago.edu/doi/suppl/10.1086/719419)
 
